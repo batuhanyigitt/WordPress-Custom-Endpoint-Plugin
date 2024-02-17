@@ -20,7 +20,9 @@ Development
 
 If you want to contribute to this project, you can follow these steps:
 
-Clone this project: git clone https://github.com/batuhanyigitt/Custom-API-Endpoint-Plugin.git
+Clone this project:
+
+git clone https://github.com/batuhanyigitt/Custom-API-Endpoint-Plugin
 Navigate to the project directory: cd Custom-API-Endpoint-Plugin
 Install the necessary dependencies: composer install
 Compile SASS files: sass style.scss style.css
