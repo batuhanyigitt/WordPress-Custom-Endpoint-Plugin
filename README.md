@@ -23,11 +23,17 @@ If you want to contribute to this project, you can follow these steps:
 Clone this project:
 
 git clone https://github.com/batuhanyigitt/Custom-API-Endpoint-Plugin
+
 Navigate to the project directory: cd Custom-API-Endpoint-Plugin
+
 Install the necessary dependencies: composer install
+
 Compile SASS files: sass style.scss style.css
+
 Concatenate and minify JavaScript files: uglifyjs custom-api-endpoint-script.js -o custom-api-endpoint-script.min.js
+
 Start development and track your changes.
+
 Contributing
 
 You can submit your feedback or bug reports through the Issues section.
