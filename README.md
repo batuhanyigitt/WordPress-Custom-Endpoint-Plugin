@@ -28,8 +28,6 @@ Navigate to the project directory: cd Custom-API-Endpoint-Plugin
 
 Install the necessary dependencies: composer install
 
-Compile SASS files: sass style.scss style.css
-
 Concatenate and minify JavaScript files: uglifyjs custom-api-endpoint-script.js -o custom-api-endpoint-script.min.js
 
 Start development and track your changes.
