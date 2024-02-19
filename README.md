@@ -1,26 +1,28 @@
-# WordPress-Custom-Endpoint-Plugin
+# WordPress-Custom-Endpoint-Plugin:
 
 Custom API Endpoint Plugin creates a custom endpoint in WordPress to fetch data from an external API and presents this data as an HTML table that users can view. Additionally, it allows users to view details of any specific user.
 
-Features
+# Features:
 
 Create a custom endpoint in WordPress.
 Fetch data from an external API and generate an HTML table.
 Fetch and display details of any specific user via AJAX.
 
-Installation
+# Installation:
 
 Upload this plugin to the wp-content/plugins/ directory of your WordPress installation.
 Activate the plugin through the 'Plugins' menu in WordPress.
-Usage
+
+# Usage:
 
 Once activated, you can access the custom endpoint at http://example.com/custom-api-endpoint. Here, you will see a table containing data fetched from the external API.
 Clicking on any user in the table will trigger an AJAX request to fetch and display details of that user.
-Development
+
+# Development:
 
 If you want to contribute to this project, you can follow these steps:
 
-Clone this project:
+# Clone this project:
 
 git clone https://github.com/batuhanyigitt/Custom-API-Endpoint-Plugin
 
